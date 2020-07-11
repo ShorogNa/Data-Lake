@@ -1,4 +1,4 @@
-# Project: Data Warehouse for Sparkify 
+# Project: Data Lake for Sparkify 
 Sparkify is a music streaming startup that has grown their user base and song database and want to move their processes and data onto the cloud. Their data resides in S3, in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app.
 In this project we will build ETL pipeline that read their data from S3, proccess them iusing Spark, and transforms data into a set of dimensional tables for their analytics team to continue finding insights in what songs their users are listening to. Finally, we will wright the data back on S3.  
 ## Project Datasets: 
